@@ -1,15 +1,8 @@
-IT | Systems | Continuous Improvement
+# Muhammad 👋
 
+Learning. Building. Improving.
 
+I approach technology as a tool for discipline and problem-solving.
+This profile is a record of my growth.
 
-
-
-
-
-
-I’m interested in how infrastructure works behind the scenes — operating systems, networks, and support processes.
-I use GitHub to:
-Practice what I learn
-Break problems down
-Improve step by step
-My goal is simple: become technically strong through discipline and consistency.
+No hype. Just progress.
